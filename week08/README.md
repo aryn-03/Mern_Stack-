@@ -36,13 +36,13 @@ The frontend development server runs on `http://localhost:5173` by default.
 
 ## Features
 
-- ✅ Create new users
-- ✅ View all users
-- ✅ View user details
-- ✅ Edit user information
-- ✅ Delete users (soft delete)
-- ✅ Restore deleted users
-- ✅ Responsive UI with Tailwind CSS
+- Create new users
+- View all users
+- View user details
+- Edit user information
+- Delete users (soft delete)
+- Restore deleted users
+- Responsive UI with Tailwind CSS
 
 ## Technologies Used
 
@@ -112,13 +112,3 @@ Then navigate to `http://localhost:5173` in your browser.
 cd Frontend
 npm run build
 ```
-
-This creates an optimized production build in the `dist` folder.
-
-## License
-
-ISC
-
-## Author
-
-YOHAN
